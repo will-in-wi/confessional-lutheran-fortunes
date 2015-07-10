@@ -12,7 +12,7 @@ Here are the data files and what they contain.
 ### small_catechism
 
 Luther's Small Catechism, divided as best I could into small chunks. The source
-is (bookofconcord.org)[http://bookofconcord.org/smallcatechism.php]. This is, I
+is [bookofconcord.org](http://bookofconcord.org/smallcatechism.php). This is, I
 believe, the Triglot translation. I cannot redistribute the more normally used
 1986 version as it is copyrighted. If you agree with me that this is morally
 repugnant, please contact CPH.
